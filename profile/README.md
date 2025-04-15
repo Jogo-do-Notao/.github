@@ -15,3 +15,18 @@
 |                          Gabriel Borges                           | 25.01694-0 |        |
 |                      Patrick Gomes de Sousa                       | 25.01699-9 |        |
 | [Vinicius Cavalcante Tavarez](https://github.com/viniciusct0626)  | 25.01685-8 |        |
+
+<!-- Parceria -->
+
+## 🤝 Parceria
+
+<div align="center" style="display: flex; flex-direction: row; align-items: center; width: 100%; justify-content: center; gap: 24px; flex-wrap: wrap;">
+    <!-- IMT -->
+    <a href="https://www.maua.br" target="_blank">
+        <img height="112px" src="../assets/images/logo/logo-IMT.png">
+    </a>
+    <!-- Poliedro -->
+    <a href="https://www.colegiopoliedro.com.br" target="_blank">
+        <img height="112px" src="../assets/images/logo/logo-Poliedro.svg">
+    </a>
+</div>
