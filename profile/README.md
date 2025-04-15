@@ -20,7 +20,7 @@
 
 ## 🤝 Parceria
 
-<div align="center" style="display: flex; flex-direction: row; align-items: center; width: 100%; justify-content: center; gap: 24px; flex-wrap: wrap;">
+<div align="center" style="display: flex; flex-direction: row; align-items: center; width: 100%; justify-content: center; gap: 16px; flex-wrap: wrap;">
     <!-- IMT -->
     <a href="https://www.maua.br" target="_blank">
         <img height="112px" src="../assets/images/logo/logo-IMT.png">
